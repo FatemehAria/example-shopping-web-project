@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+.text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: calc(0.30em + 0.50vw);
+    font-weight: bolder;
+}
+.icons{
+    width:90%;
+    height:30px;
+    display:flex;
+    margin:0 auto;
+    position:relative;
+    left: 4rem;
+}
+.textPositioning{
+    position: absolute;
+    right: 5rem;
+}

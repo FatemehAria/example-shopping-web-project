@@ -1,0 +1,10 @@
+.background{
+    background-image: url("images/Shopping7.png");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+    width: 100%;
+    display: block;
+}

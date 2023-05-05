@@ -1,0 +1,44 @@
+.formStyle{
+    display: flex;
+}
+.background{
+    background-image: url("images/6300959.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40vw;
+    height: 100vh;
+    display: block;
+    background-position: center;
+    border-radius: 3vw;
+}
+.errmsg{
+    color: #fff;
+    background-color: red;
+}
+.offscreen{
+    position: absolute;
+    left: -9999px;
+}
+.hide{
+    display:none;
+}
+.instructions{
+    font-size: 0.75rem;
+    border-radius: 0.5rem;
+    background-color: #000;
+    color: #fff;
+    padding:0.25rem;
+    position: relative;
+    bottom: -10px;
+
+}
+.valid{
+    color: limegreen
+    margin-left 0.25rem;
+}
+.invalid{
+    color: red;
+    margin-left: 0.25rem;
+}
+
+/* invalid valid instructions*/

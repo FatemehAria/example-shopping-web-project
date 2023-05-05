@@ -1,0 +1,10 @@
+.background{
+    background-image: url("images/3973481.jpg");
+    background-size: contain;
+    width: 98vw;
+    height: 85vh;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 3vw;
+}
